@@ -1,5 +1,5 @@
 <?php
-$host = "127.0.0.1";
+$host = "127.0.0.1:53271";
 $user = "azure";
 $pwd = "6#vWHD_$";
 $db = "localdb";
